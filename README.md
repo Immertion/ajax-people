@@ -1,6 +1,6 @@
-# Сервер аякс.люди
+# AJAX-PEOPLE
 
-## Запуск проекта
+## Launch project
 ```cmd
 cd client
 npm install
@@ -9,4 +9,4 @@ cd ../
 go run .\cmd\main.go
 ```
 
-### стек - docker + postgresql + go + angular
+### stack - docker + postgresql + go + angular
